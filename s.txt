@@ -1,0 +1,12 @@
+﻿1>------ 已启动生成:  项目: XFF_vision, 配置: Debug x86 ------
+2>------ 已启动生成:  项目: ViewControl, 配置: Debug Any CPU ------
+2>F:\vision2019_1_3\ViewControl\HalconView.cs(50,24,50,33): warning CS0169: 从不使用字段“ViewControl.HalconView.toolLable”
+2>  ViewControl -> F:\vision2019_1_3\ViewControl\bin\Debug\ViewControl.dll
+1>F:\vision2019_1_3\XFF_vision\DAL\ProgramDAL.cs(62,30,62,31): warning CS0168: 声明了变量“e”，但从未使用过
+1>F:\vision2019_1_3\XFF_vision\frm_tool.cs(663,28,663,38): warning CS0219: 变量“returnStr1”已赋值，但其值从未使用过
+1>F:\vision2019_1_3\XFF_vision\frm_main.cs(60,14,60,22): warning CS0169: 从不使用字段“XFF_vision.frm_main.in_value”
+1>F:\vision2019_1_3\XFF_vision\frm_tool.cs(76,31,76,52): warning CS0169: 从不使用字段“XFF_vision.frm_tool.roiOpIntersectionTool”
+1>F:\vision2019_1_3\XFF_vision\frm_tool.cs(77,29,77,48): warning CS0169: 从不使用字段“XFF_vision.frm_tool.roiOpDifferenceTool”
+1>F:\vision2019_1_3\XFF_vision\frm_tool.cs(78,22,78,34): warning CS0169: 从不使用字段“XFF_vision.frm_tool.roiOpXorTool”
+1>  XFF_vision -> F:\vision2019_1_3\XFF_vision\bin\Debug\XFF_vision.exe
+========== 生成:  成功 2 个，失败 0 个，最新 2 个，跳过 0 个 ==========

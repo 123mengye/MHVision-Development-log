@@ -1,0 +1,57 @@
+﻿1>------ 已启动生成: 项目: VisionTool, 配置: Debug Any CPU ------
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\AcqFifoTool.cs(321,34,321,36): warning CS0168: The variable 'ex' is declared but never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\AcqFifoTool.cs(349,34,349,36): warning CS0168: The variable 'ex' is declared but never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\BarcodeTool.cs(300,59,300,69): warning CS0168: The variable 'pointOrder' is declared but never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\DetectScratchesTool.cs(301,24,301,31): warning CS0168: The variable 'hv_row1' is declared but never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\DetectScratchesTool.cs(301,33,301,40): warning CS0168: The variable 'hv_col1' is declared but never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\DetectScratchesTool.cs(301,42,301,49): warning CS0168: The variable 'hv_len1' is declared but never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\DetectScratchesTool.cs(301,51,301,58): warning CS0168: The variable 'hv_len2' is declared but never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\DetectScratchesTool.cs(301,60,301,67): warning CS0168: The variable 'hv_phi1' is declared but never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\DetectScratchesTool.cs(302,25,302,37): warning CS0168: The variable 'ho_Rectangle' is declared but never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\FindRectangle2Tool.cs(406,24,406,34): warning CS0168: The variable 'WinHandle1' is declared but never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\ImageTool.cs(301,20,301,28): warning CS0219: The variable 'hv_RowEx' is assigned but its value is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\ImageTool.cs(301,37,301,45): warning CS0219: The variable 'hv_ColEx' is assigned but its value is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\ImageTool.cs(363,20,363,28): warning CS0219: The variable 'hv_RowEx' is assigned but its value is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\ImageTool.cs(363,37,363,45): warning CS0219: The variable 'hv_ColEx' is assigned but its value is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\SurfaceFlawTool.cs(401,53,401,57): warning CS0219: The variable 'hv_i' is assigned but its value is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\SerialPort.cs(124,30,124,32): warning CS0168: The variable 'ex' is declared but never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\SerialPort.cs(141,30,141,32): warning CS0168: The variable 'ex' is declared but never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\9PointCalibTool.cs(17,16,17,24): warning CS0169: The field '_9PointCalibTool.hv_rowA1' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\PatInspectTool.cs(22,27,22,42): warning CS0169: The field 'PatInspectTool.ho_ImageReduced' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\FlowExecuteDAL.cs(582,32,582,49): warning CS0169: The field 'FlowExecuteDAL.roiOpIntersection' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\FindRectangle2Tool.cs(21,27,21,36): warning CS0169: The field 'FindRectangle2Tool.hv_edgesX' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\9PointCalibTool.cs(19,16,19,24): warning CS0169: The field '_9PointCalibTool.hv_colA1' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\DistancePointLineTool.cs(30,17,30,22): warning CS0169: The field 'DistancePointLineTool.arrow' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\DistanceAnglePointPointTool.cs(27,16,27,24): warning CS0169: The field 'DistanceAnglePointPointTool.hv_colB1' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\PatInspectTool.cs(31,22,31,28): warning CS0169: The field 'PatInspectTool.logic2' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\CaliperTool.cs(19,60,19,79): warning CS0169: The field 'CaliperTool.ho_ResultLineObject' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\FindCornerTool.cs(33,14,33,19): warning CS0169: The field 'FindCornerTool.logic' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\FindRectangle2Tool.cs(21,16,21,25): warning CS0169: The field 'FindRectangle2Tool.hv_edgesY' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\DistanceAnglePointPointTool.cs(29,16,29,24): warning CS0169: The field 'DistanceAnglePointPointTool.hv_rowB2' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\PatInspectTool.cs(29,16,29,27): warning CS0169: The field 'PatInspectTool.hv_NDefects' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\TransPolarTool.cs(40,47,40,61): warning CS0169: The field 'TransPolarTool.ho_ImageRotate' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\PatInspectTool.cs(31,14,31,20): warning CS0169: The field 'PatInspectTool.logic1' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\DistanceAnglePointPointTool.cs(31,16,31,24): warning CS0169: The field 'DistanceAnglePointPointTool.hv_colB2' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\FindRectangle2Tool.cs(36,14,36,19): warning CS0169: The field 'FindRectangle2Tool.logic' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\DistanceAnglePointPointTool.cs(25,16,25,24): warning CS0169: The field 'DistanceAnglePointPointTool.hv_rowB1' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\ColorExtractorTool.cs(25,29,25,38): warning CS0169: The field 'ColorExtractorTool.hv_Height' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\FlowExecuteDAL.cs(584,23,584,35): warning CS0169: The field 'FlowExecuteDAL.roiOpXorTool' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\ColorExtractorTool.cs(25,19,25,27): warning CS0169: The field 'ColorExtractorTool.hv_Width' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\CaliperTool.cs(19,43,19,58): warning CS0169: The field 'CaliperTool.ho_ResultObject' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\PatInspectTool.cs(22,84,22,92): warning CS0169: The field 'PatInspectTool.ho_Edges' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\FlowExecuteDAL.cs(583,30,583,45): warning CS0169: The field 'FlowExecuteDAL.roiOpDifference' is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\FindRectangle2Tool.cs(30,16,30,24): warning CS0414: The field 'FindRectangle2Tool.hv_Width' is assigned but its value is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\DistancePointLineTool.cs(32,16,32,25): warning CS0414: The field 'DistancePointLineTool.hv_rowMin' is assigned but its value is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\FlowExecuteDAL.cs(313,13,313,18): warning CS0414: The field 'FlowExecuteDAL.numpl' is assigned but its value is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\FindRectangle2Tool.cs(30,33,30,42): warning CS0414: The field 'FindRectangle2Tool.hv_Height' is assigned but its value is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\FlowExecuteDAL.cs(327,14,327,19): warning CS0414: The field 'FlowExecuteDAL.numll' is assigned but its value is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\DistancePointLineTool.cs(32,32,32,41): warning CS0414: The field 'DistancePointLineTool.hv_colMin' is assigned but its value is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\FlowExecuteDAL.cs(334,14,334,19): warning CS0414: The field 'FlowExecuteDAL.numal' is assigned but its value is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\FitCircleTool.cs(23,17,23,25): warning CS0414: The field 'FitCircleTool.ho_cross' is assigned but its value is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\TransPolarTool.cs(20,33,20,42): warning CS0414: The field 'TransPolarTool.hv_Height' is assigned but its value is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\TransPolarTool.cs(20,16,20,24): warning CS0414: The field 'TransPolarTool.hv_Width' is assigned but its value is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\FlowExecuteDAL.cs(320,14,320,19): warning CS0414: The field 'FlowExecuteDAL.numpp' is assigned but its value is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\FlowExecuteDAL.cs(348,13,348,19): warning CS0414: The field 'FlowExecuteDAL.numocr' is assigned but its value is never used
+1>E:\xff\视觉流程\halcon17-20191017\VisionTool\ImageToolDAL\FlowExecuteDAL.cs(341,13,341,19): warning CS0414: The field 'FlowExecuteDAL.numapp' is assigned but its value is never used
+1>  VisionTool -> E:\xff\视觉流程\halcon17-20191017\VisionTool\bin\Debug\VisionTool.dll
+========== 生成: 成功 1 个，失败 0 个，最新 7 个，跳过 0 个 ==========
